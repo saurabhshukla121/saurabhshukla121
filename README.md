@@ -7,7 +7,7 @@
 
 - 🎓 I'm currently studying **Computer Science at The LNM Institute of Information Technology, India.**
 
-- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/1IJHSe55mt_eFDuvIE3m_fBxOZAz-ERae/view?usp=sharing). I'm open to any kind of suggestions!
+- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/12NUiNDME7cYYsYzTq9v3WWT3m1jbFV9_/view?usp=sharing). I'm open to any kind of suggestions!
 
 <div align="center">
 <h3 align="center">🛠 Tech Stack</h3>
