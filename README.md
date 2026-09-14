@@ -69,10 +69,8 @@
 
 <h3 align="center">⚙️ GitHub Analytics</h3>
 <p align="center">
-<a href="https://github.com/saurabhshukla121">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saurabhshukla121&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saurabhshukla121&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=saurabhshukla121&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=saurabhshukla121&langs_count=6&theme=algolia"/>
 </p>
 
 
