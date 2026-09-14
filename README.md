@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!, I'm Saurabh Shukla</h1>
 <h3 align="center">
-  I am a passionate <strong>$\color{red}{\text{Full-Stack Developer}}$</strong> with 3 years of professional experience building scalable web applications.
+  I am a passionate <strong>$\color{red}{\text{Full-Stack Developer}}$</strong> with <strong>$\color{red}{\text{3 years}}$</strong> of professional experience building scalable web applications.
 </h3>
 
 - <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f4019f9d-80ae-477d-aee4-b7d36211dbe3" style="vertical-align: middle; margin-right: 6px;" />
