@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!, I'm Saurabh Shukla</h1>
-<h3 align="center">I am a passionate **Full-Stack Developer** with 3 years of professional experience building scalable web applications.</h3>
+<h3 align="center">I am a passionate <strong>Full-Stack Developer</strong> with 3 years of professional experience building scalable web applications.</h3>
 
 - <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f4019f9d-80ae-477d-aee4-b7d36211dbe3" style="vertical-align: middle; margin-right: 6px;" />
   I build high-throughput systems with first-principles thinking, strong algorithmic foundations, and careful tradeoff analysis.
