@@ -1,17 +1,21 @@
 <h1 align="center">Hello there!, I'm Saurabh Shukla</h1>
 <h3 align="center">I am a passionate **Full-Stack Developer** with 3 years of professional experience building scalable web applications.</h3>
 
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f4019f9d-80ae-477d-aee4-b7d36211dbe3" style="vertical-align: middle; margin-right: 6px;" />
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f4019f9d-80ae-477d-aee4-b7d36211dbe3" style="vertical-align: middle; margin-right: 6px;" />
   I build high-throughput systems with first-principles thinking, strong algorithmic foundations, and careful tradeoff analysis.
 
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/914c9b36-f31a-4947-94a3-48b2d888c5e6" style="vertical-align: middle; margin-right: 6px;" />
+
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/914c9b36-f31a-4947-94a3-48b2d888c5e6" style="vertical-align: middle; margin-right: 6px;" />
   I look for hidden patterns and optimize beyond the framework level. My goal is to make difficult systems easier to understand, build, and improve.
 
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/21720353-abb5-4bbc-9b24-efe681988ce4" style="vertical-align: middle; margin-right: 6px;" />
+
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/21720353-abb5-4bbc-9b24-efe681988ce4" style="vertical-align: middle; margin-right: 6px;" />
   I am currently exploring opportunities where I can own systems end-to-end and drive measurable technical impact.
 
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/df229911-d954-4743-a7b3-3e539abff5ce" style="vertical-align: middle; margin-right: 6px;" />
+
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/df229911-d954-4743-a7b3-3e539abff5ce" style="vertical-align: middle; margin-right: 6px;" />
   Have a look at my [Resume](). Looking forward to collaborating with passionate teams on innovative and impactful solutions.
+
 
 <div align="center">
 <h3 align="center">🛠 Tech Stack</h3>
