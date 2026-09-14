@@ -1,16 +1,16 @@
 <h1 align="center">Hello there!, I'm Saurabh Shukla</h1>
 <h3 align="center">I am a passionate **Full-Stack Developer** with 3 years of professional experience building scalable web applications.</h3>
 
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f4019f9d-80ae-477d-aee4-b7d36211dbe3" />
+- <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/f4019f9d-80ae-477d-aee4-b7d36211dbe3" />
  I build high-throughput systems with first-principles thinking, strong algorithmic foundations, and careful tradeoff analysis.
 
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/914c9b36-f31a-4947-94a3-48b2d888c5e6" />
+- <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/914c9b36-f31a-4947-94a3-48b2d888c5e6" />
  I look for hidden patterns and optimize beyond the framework level. My goal is to make difficult systems easier to understand, build, and improve.
 
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/21720353-abb5-4bbc-9b24-efe681988ce4" />
+- <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/21720353-abb5-4bbc-9b24-efe681988ce4" />
  I am currently exploring opportunities where I can own systems end-to-end and drive measurable technical impact.
 
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/df229911-d954-4743-a7b3-3e539abff5ce" />
+- <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/df229911-d954-4743-a7b3-3e539abff5ce" />
  Have a look at my [Resume](). Looking forward to collaborate with passionate teams on innovative/impactful solutions.
 
 <div align="center">
