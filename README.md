@@ -1,6 +1,14 @@
 <h1 align="center">Hello there!, I'm Saurabh Shukla</h1>
 <h3 align="center">
-  I am a passionate <strong><span style="color:red;">Full-Stack Developer</span></strong> with <strong><span style="color:red;">3 years</span></strong> of professional experience building scalable web applications.
+  I am a passionate
+  <a href="#">
+    <img src="https://img.shields.io/badge/Full--Stack%20Developer-red?style=flat" alt="Full-Stack Developer">
+  </a>
+  with
+  <a href="#">
+    <img src="https://img.shields.io/badge/3%20years-red?style=flat" alt="3 years">
+  </a>
+  of professional experience building scalable web applications.
 </h3>
 
 - <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f4019f9d-80ae-477d-aee4-b7d36211dbe3" style="vertical-align: middle; margin-right: 6px;" />
