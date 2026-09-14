@@ -1,13 +1,17 @@
 <h1 align="center">Hello there!, I'm Saurabh Shukla</h1>
-<h3 align="center">I am a passionate Software developer.</h3>
+<h3 align="center">I am a passionate **Full-Stack Developer** with 3 years of professional experience building scalable web applications.</h3>
 
-- 💡 I like **Problem Solving. I always look forward to Challenges and learning from them.**
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f4019f9d-80ae-477d-aee4-b7d36211dbe3" />
+ I build high-throughput systems with first-principles thinking, strong algorithmic foundations, and careful tradeoff analysis.
 
-- 🌱 I’m currently learning **Frontend Development, Backend Development, Cloud Architecture and Blockchain Technologies.**
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/914c9b36-f31a-4947-94a3-48b2d888c5e6" />
+ I look for hidden patterns and optimize beyond the framework level. My goal is to make difficult systems easier to understand, build, and improve.
 
-- 🎓 I'm currently studying **Computer Science at The LNM Institute of Information Technology, India.**
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/21720353-abb5-4bbc-9b24-efe681988ce4" />
+ I am currently exploring opportunities where I can own systems end-to-end and drive measurable technical impact.
 
-- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/12NUiNDME7cYYsYzTq9v3WWT3m1jbFV9_/view?usp=sharing). I'm open to any kind of suggestions!
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/df229911-d954-4743-a7b3-3e539abff5ce" />
+ Have a look at my [Resume](). Looking forward to collaborate with passionate teams on innovative/impactful solutions.
 
 <div align="center">
 <h3 align="center">🛠 Tech Stack</h3>
@@ -70,7 +74,7 @@
 <h3 align="center">☕ Connect with me</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/saurabh-shukla30/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href= "mailto:saurabhshuklaedu121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href= "mailto:saurabh.shukla0030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href= "https://www.leetcode.com/_sithcoder_"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href= "https://www.codechef.com/users/shukla3000"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
   <!-- <a href= "https://www.hackerrank.com/saurabhshuklaed1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> -->
