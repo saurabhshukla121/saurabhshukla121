@@ -79,10 +79,18 @@
 <div>
 <h3 align="center">☕ Connect with me</h3>
 <p align="center">
-  <a href= "https://www.linkedin.com/in/saurabh-shukla30/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href= "mailto:saurabh.shukla0030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href= "https://www.leetcode.com/_sithcoder_"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  <a href= "https://www.codechef.com/users/shukla3000"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/saurabh-shukla30/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saurabh.shukla0030@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.leetcode.com/_sithcoder_" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+  <!-- <a href= "https://www.codechef.com/users/shukla3000"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a> -->
   <!-- <a href= "https://www.hackerrank.com/saurabhshuklaed1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> -->
 </p>
 </div>
