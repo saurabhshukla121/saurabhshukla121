@@ -69,8 +69,8 @@
 
 <h3 align="center">⚙️ GitHub Analytics</h3>
 <p align="center">
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=saurabhshukla121&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=saurabhshukla121&langs_count=6&theme=algolia"/>
+<img src="https://github-stats-extended.vercel.app/api?username=saurabhshukla121&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=saurabhshukla121&langs_count=4&theme=algolia"/>
 </p>
 
 
