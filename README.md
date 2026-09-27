@@ -69,8 +69,8 @@ I am a passionate <strong>$\color{red}{\text{Full-Stack Developer}}$</strong> wi
 
 <h3 align="center">⚙️ GitHub Analytics</h3>
 <p align="center">
-<img height="200em" src=""/>
-<img height="200em" src=""/>
+<img height="200em" src="https://github-stats-extended.vercel.app/api?username=saurabhshukla121&rank_icon=github&custom_title=My%20GitHub%20Stats&include_all_commits=true&theme=algolia"/>
+<img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs?username=saurabhshukla121&langs_count=4&theme=algolia"/>
 </p>
 
 
